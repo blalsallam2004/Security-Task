@@ -4,4 +4,4 @@
 3. Save using Git
 4. Create a pull request
 5. Deadline on Tuesday 10:00 pm
-6. Good Luck :)
+6. Good Luck :))
